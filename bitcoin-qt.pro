@@ -251,6 +251,7 @@ HEADERS += src/qt/bitcoingui.h \
     src/bitcoinrpc.h \
     src/qt/webviewhandler.h \	
     src/qt/overviewpage.h \
+	src/qt/qcustomplot.h \	
     src/qt/csvmodelwriter.h \
     src/crypter.h \
     src/qt/sendcoinsentry.h \
@@ -340,6 +341,7 @@ SOURCES += src/qt/bitcoin.cpp src/qt/bitcoingui.cpp \
     src/rpcrawtransaction.cpp \
     src/qt/webviewhandler.cpp \	
     src/qt/overviewpage.cpp \
+	src/qt/qcustomplot.cpp \
     src/qt/csvmodelwriter.cpp \
     src/crypter.cpp \
     src/qt/sendcoinsentry.cpp \
